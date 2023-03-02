@@ -1,0 +1,22 @@
+html{
+    background-color: aqua ;
+}
+h1{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+    table{background-color: green;
+    border: solid 3px yellowgreen;
+    border-collapse: collapse;
+    color: white;
+}
+td,th {
+   border: white;
+   padding: 3px; 
+}
+
+table{
+    border: 1px solid #fff;;
+}
+th, td {
+    border: 1px solid #fff;
+}
